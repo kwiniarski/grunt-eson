@@ -1,0 +1,7 @@
+{
+  "display name": "yes",
+  "session timeout": "120 seconds",
+  "avatar size": "80x80",
+  "avatar file": "{root}/avatars.png",
+  "access": "include test/fixtures/access"
+}

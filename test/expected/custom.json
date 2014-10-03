@@ -1,0 +1,27 @@
+{
+  "access": {
+    "history": true,
+    "users": false,
+    "images": "true"
+  },
+  "database": {
+    "engine": "mongodb",
+    "host": "localhost",
+    "port": 1234,
+    "collection": "profiles"
+  },
+  "profile": {
+    "display name": true,
+    "session timeout": 120000,
+    "avatar size": {
+      "width": 80,
+      "height": 80
+    },
+    "avatar file": "tmp/avatars.png",
+    "access": {
+      "history": true,
+      "users": false,
+      "images": "true"
+    }
+  }
+}

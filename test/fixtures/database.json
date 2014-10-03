@@ -1,0 +1,6 @@
+{
+  "engine": "mongodb",
+  "host": "localhost",
+  "port": 1234,
+  "collection": "profiles"
+}
