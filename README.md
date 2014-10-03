@@ -46,7 +46,7 @@ Value passed to the `JSON.stringify` as a third parameter.
 #### options.replace
 Type: `Object`
 Default value:
-```json
+```js
 {
   '{root}': process.cwd()
 }
